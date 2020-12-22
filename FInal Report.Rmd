@@ -817,8 +817,3 @@ d. Model 2
 | VEST_score                           | 7.420182           | 1.444010            |
 | Gene_body_hypermethylation_in_cancer | 2.467435           | 1.092625            |
 | CNA_amplification                    | 0.7979840          | -0.9524778          | 
-
-
-
-
-
