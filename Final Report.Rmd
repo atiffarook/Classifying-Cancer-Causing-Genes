@@ -9,6 +9,8 @@ output:
   pdf_document: default
 ---
 
+## Knit using Latex 
+
 \maketitle
 \pagenumbering{gobble}
 \clearpage
